@@ -775,7 +775,7 @@ button {
 
 .modal-close-btn {
   position: absolute;
-  top: 8px;
+  top: 11px;
   right: 8px;
   width: 30px;
   height: 30px;
@@ -783,7 +783,6 @@ button {
   border-radius: 50%;
   background-color: var(--light-color);
   cursor: pointer;
-
 }
 
 .close-modal-btn-icon {
